@@ -31,4 +31,15 @@ The particular experiment can be done at various temperatures. One can do data c
 
 ![alt text](image-7.png)
 
+* We use Nickel and Niobium as filter
+
 ![alt text](image-8.png)
+
+* Region of Braking Radiation
+
+![alt text](image-9.png)
+
+* Why we need to use higher voltage
+
+![alt text](image-10.png)
+
