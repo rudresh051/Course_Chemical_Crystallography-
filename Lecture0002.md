@@ -19,3 +19,6 @@
 ## X-ray Diffraction : The beginning
 
 ![alt text](image-14.png)
+
+## Crystalline vs Amorphous
+
