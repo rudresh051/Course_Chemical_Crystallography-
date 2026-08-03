@@ -8,3 +8,10 @@ Question - what is glide plane?
 
 all of them contain mirror plan in different direction
 
+## Roto-reflection(S<sub>n</sub>) and roto-inversion ${\bar{n}}$ axis
+
+![alt text](image-40.png)
+
+## 32 Crystallographic Point Groups
+
+![alt text](image-41.png)
