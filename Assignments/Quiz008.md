@@ -60,3 +60,45 @@ For example, crystals containing elements such as **Pb, Hg, or U** can have subs
 > **Absorption correction = compensate for X-rays being absorbed by the crystal.**
 > **Heavy elements → stronger absorption → correction becomes particularly important.**
 
+
+## Question 7
+
+7. What among the following is best method for the treatment of hydrogen atoms using X-ray diffraction data?
+
+Electron density corresponding to hydrogen atom(s) are found from the difference Fourier map.H atoms are assigned corresponding to those electron densities and refined isotropically.  
+
+Hydrogen atoms are fixed at their geometrically ideal locations fixed by the ideal bond length and bond angles and their thermal parameters are refined independently and isotropically.  
+
+Electron density corresponding to hydrogen atom(s) are found from the difference Fourier map.H atoms are assigned corresponding to those electron densities and refined anisotropically.  
+
+Hydrogen atoms are fixed at their geometrically ideal locations fixed by the ideal bond length and bond angles and their thermal parameters are assigned based on the isotropic thermal parameter of the element to which the H atom is bonded.  
+
+The **correct answer is Option 4** ✅
+
+> **Hydrogen atoms are fixed at their geometrically ideal locations based on ideal bond lengths and bond angles, and their thermal parameters are assigned based on the isotropic thermal parameter of the element to which the H atom is bonded.**
+
+### Why?
+
+Hydrogen atoms are difficult to locate accurately using X-ray diffraction because **hydrogen has only one electron**, so it scatters X-rays very weakly.
+
+Therefore, in routine X-ray structure refinement:
+
+* H atoms are usually **placed at calculated/idealized positions** rather than located directly from the electron-density map.
+* Their positions are constrained using **ideal bond lengths and angles**.
+* Their isotropic displacement/thermal parameters (**Uiso**) are generally tied to the thermal parameter of the atom to which H is bonded.
+* They are **not normally refined independently**.
+
+### Why the other options are wrong?
+
+| Option | Why incorrect                                                                                                                                |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1      | H atoms may sometimes appear in a difference Fourier map, but independently isotropic refinement is not the standard/best routine treatment. |
+| 2      | Positions are correctly idealized, but **thermal parameters should generally be constrained/tied**, not refined independently.               |
+| 3      | **Anisotropic refinement of H atoms is generally inappropriate** in routine X-ray refinement because of weak scattering.                     |
+| **4**  | ✅ **Standard/best routine approach**                                                                                                         |
+
+**Exam answer: Option 4.**
+
+
+
+
